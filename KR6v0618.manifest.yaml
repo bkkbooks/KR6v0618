@@ -1,0 +1,848 @@
+canonical_identifier: bkk:krp/KR6v0618/v1
+canonical_location: https://kanripo.org/bkk/KR6v0618/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 永光集
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y43/Y43n0041.xml
+    old_id: Y43n0041
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0618_001.yaml, hash: 'sha256:eda7514ed1f99ff29942bb8956e2c20112def7eb1d2377a474705d07ecf0f8ad'}
+  - {seq: 2, filename: KR6v0618_002.yaml, hash: 'sha256:e20e2e90c2f13e9ca35ba945d41121671ea6ef2d37f231beea5b9def08a0f2ef'}
+  - {seq: 3, filename: KR6v0618_003.yaml, hash: 'sha256:3c6c1ee9d26ef56344868f112bbf1aeefd7c362cfcbfd2c1ed70c04480911549'}
+  - {seq: 4, filename: KR6v0618_004.yaml, hash: 'sha256:a5bf4e1da4d66b9e192506d9644431d9e0ef6e845da752e295b314d073901cfc'}
+  - {seq: 5, filename: KR6v0618_005.yaml, hash: 'sha256:de4b49fb6a3e18163918a665b0126345cc7dcaffd160d0be4c3bfaa876488e32'}
+  - {seq: 6, filename: KR6v0618_006.yaml, hash: 'sha256:afa4a497b40f208e82b597d4931bfbbd830abfc4f1f8b7ebecd103aeb4a909d2'}
+  - {seq: 7, filename: KR6v0618_007.yaml, hash: 'sha256:2070d20fa53c8a28533a1072ba226ba3260f9464488cce883bb9748433b17a33'}
+  - {seq: 8, filename: KR6v0618_008.yaml, hash: 'sha256:908edda3a833c9d0518558703265c685efc266ce8482b0c68683d4fa00e0bb6b'}
+  - {seq: 9, filename: KR6v0618_009.yaml, hash: 'sha256:be0cd12480cc94d53c0446a836befc62857c4c007e4a17d0b29c66c1f5c0e6e7'}
+  - {seq: 10, filename: KR6v0618_010.yaml, hash: 'sha256:0cb2e4b75fe7586270c1c380374ee8d5f464e8db2862d12d755f51f10e9d258d'}
+  - {seq: 11, filename: KR6v0618_011.yaml, hash: 'sha256:c319a1eaf83f4f7c32ab3a8e5e3a13de76f783ddd830b0f113345a23d9cc1251'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0618_001.markers.yaml, hash: 'sha256:6004dd67659bc2cdf3cd2ad3f3b3f929975d0ba6e14a9c59821b9f651be17af8'}
+  - {seq: 2, role: markers, filename: assets/KR6v0618_002.markers.yaml, hash: 'sha256:0ec774fe1a7a7ef0fbab331a7d1473eaf72a7bfee7efc80bdea32c84d377912c'}
+  - {seq: 3, role: markers, filename: assets/KR6v0618_003.markers.yaml, hash: 'sha256:948e7dfcf11279fbe77f120fe42fb6136b20de16223ae1402e4dfbb652d4136a'}
+  - {seq: 4, role: markers, filename: assets/KR6v0618_004.markers.yaml, hash: 'sha256:dbe50ffb6d68cee36dea45eecc129eb7c8e9b7a7c6f44ab81281222d97dcb943'}
+  - {seq: 5, role: markers, filename: assets/KR6v0618_005.markers.yaml, hash: 'sha256:bbf0c287e1e5119d6f3fd640907793eb175893b0ff874e6f03fe4430d246a8a8'}
+  - {seq: 6, role: markers, filename: assets/KR6v0618_006.markers.yaml, hash: 'sha256:4a0b847c7438332674314dcb5e87580bbf3a4c61a9b1679782175dd69fa4aa68'}
+  - {seq: 7, role: markers, filename: assets/KR6v0618_007.markers.yaml, hash: 'sha256:bad4cf00abfc444f837be89b84dbe9a4798ea0662938d86a7165e33309cacc87'}
+  - {seq: 8, role: markers, filename: assets/KR6v0618_008.markers.yaml, hash: 'sha256:072c8708a2e62e406c9ea73fe8dd5f702266c121e395063eb0e728dd9b1ed7f6'}
+  - {seq: 9, role: markers, filename: assets/KR6v0618_009.markers.yaml, hash: 'sha256:966ffcbc7357264dc4024a94db6b151afc32fcfc458982f952fabab95136fa3d'}
+  - {seq: 10, role: markers, filename: assets/KR6v0618_010.markers.yaml, hash: 'sha256:156f0baedd37f8028e25e15e5c8dbd38236b210457b7e81b886ef606b6a75db0'}
+  - {seq: 11, role: markers, filename: assets/KR6v0618_011.markers.yaml, hash: 'sha256:48fc91154d62750f9d304d9d13e1235c97a563d2f5cdc472181f6828164f02bc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 29661
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-2
+    span:
+    - body
+    - 316
+    - 316
+  label: 一、《大智度論》之作者及其翻譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-3
+    span:
+    - body
+    - 327
+    - 327
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-4
+    span:
+    - body
+    - 1011
+    - 1011
+  label: 第一章　《大智度論》之翻譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-5
+    span:
+    - body
+    - 1021
+    - 1021
+  label: 第一節　從佛典漢譯的程序談起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-6
+    span:
+    - body
+    - 2237
+    - 2237
+  label: 第二節　《大智度論》的卷數
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-7
+    span:
+    - body
+    - 3524
+    - 3524
+  label: 第三節　有關論文譯語問題解疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-8
+    span:
+    - body
+    - 5625
+    - 5625
+  label: 第四節　《大智度論》之譯者與筆受者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-9
+    span:
+    - body
+    - 8385
+    - 8385
+  label: 第二章　《大智度論》之作者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-10
+    span:
+    - body
+    - 8395
+    - 8395
+  label: 第一節　《大智度論》對佛法的根本立場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-11
+    span:
+    - body
+    - 9197
+    - 9197
+  label: 第二節　《大智度論》與毘曇門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-12
+    span:
+    - body
+    - 9208
+    - 9208
+  label: 第一項　《大智度論》與說一切有部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-13
+    span:
+    - body
+    - 12307
+    - 12307
+  label: 第二項　《大智度論》與犢子部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-14
+    span:
+    - body
+    - 14875
+    - 14875
+  label: 第三節　《大智度論》與空門及蜫勒門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-15
+    span:
+    - body
+    - 16859
+    - 16859
+  label: 第四節　三藏與四藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-16
+    span:
+    - body
+    - 19277
+    - 19277
+  label: 第五節　佛教的中國與邊地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-17
+    span:
+    - body
+    - 20040
+    - 20040
+  label: 第六節　南天竺與北天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-18
+    span:
+    - body
+    - 22211
+    - 22211
+  label: 第七節　《大智度論》與大乘經論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-19
+    span:
+    - body
+    - 24641
+    - 24641
+  label: 第八節　《大智度論》的作者——龍樹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-20
+    span:
+    - body
+    - 27008
+    - 27008
+  label: 參考資料
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0618_Y_001-mulu-21
+    span:
+    - body
+    - 27836
+    - 27836
+  label: 尊重古說，抉擇新論——印公老人新著撰述緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 8476
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二、《起信論》與扶南大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 一　前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-3
+    span:
+    - body
+    - 495
+    - 495
+  label: 二　扶南曼陀羅的譯典
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-4
+    span:
+    - body
+    - 504
+    - 504
+  label: 一　扶南佛教略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-5
+    span:
+    - body
+    - 662
+    - 662
+  label: 二　《文殊所說般若經》與《法界體性無分別經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-6
+    span:
+    - body
+    - 2025
+    - 2025
+  label: 三　一行三昧與《解脫道論》
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-7
+    span:
+    - body
+    - 2935
+    - 2935
+  label: 三　從扶南來的真諦譯典
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-8
+    span:
+    - body
+    - 2945
+    - 2945
+  label: 一　真諦的《攝大乘論釋》
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-9
+    span:
+    - body
+    - 3313
+    - 3313
+  label: 二　依他性——阿黎耶識通二分說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-10
+    span:
+    - body
+    - 5415
+    - 5415
+  label: 三　真實熏虛妄說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-11
+    span:
+    - body
+    - 6871
+    - 6871
+  label: 四　多心論與一意識師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0618_Y_002-mulu-12
+    span:
+    - body
+    - 7629
+    - 7629
+  label: 四　結論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0618_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 5770
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0618_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三、「灌頂」在佛法中的起因與發展
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0618_Y_003-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0618_Y_003-mulu-3
+    span:
+    - body
+    - 1096
+    - 1096
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0618_Y_003-mulu-4
+    span:
+    - body
+    - 2558
+    - 2558
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0618_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 1661
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0618_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 四、《南傳大藏經》於漢譯教法中的地位
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0618_Y_005-juan-start
+    span:
+    - body
+    - 0
+    - 3173
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0618_Y_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 五、憶福嚴二三事，談佛教在人間
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0618_Y_005-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0618_Y_005-mulu-3
+    span:
+    - body
+    - 172
+    - 172
+  label: 一　福嚴佛學院草創概況
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0618_Y_005-mulu-4
+    span:
+    - body
+    - 2012
+    - 2012
+  label: 二　佛教在人間
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0618_Y_005-mulu-5
+    span:
+    - body
+    - 2719
+    - 2719
+  label: 三　菩薩行與易行道
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-juan-start
+    span:
+    - body
+    - 0
+    - 9967
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六、〈印順法師對大乘起源的思考〉讀後
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-3
+    span:
+    - body
+    - 634
+    - 634
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-4
+    span:
+    - body
+    - 2459
+    - 2459
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-5
+    span:
+    - body
+    - 4726
+    - 4726
+  label: 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-6
+    span:
+    - body
+    - 7816
+    - 7816
+  label: 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0618_Y_006-mulu-7
+    span:
+    - body
+    - 9305
+    - 9305
+  label: 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0618_Y_007-juan-start
+    span:
+    - body
+    - 0
+    - 5782
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0618_Y_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七、《我有明珠一顆》讀後
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0618_Y_007-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0618_Y_007-mulu-3
+    span:
+    - body
+    - 1593
+    - 1593
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0618_Y_007-mulu-4
+    span:
+    - body
+    - 5049
+    - 5049
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-juan-start
+    span:
+    - body
+    - 0
+    - 10470
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八、為自己說幾句話
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 一
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-3
+    span:
+    - body
+    - 182
+    - 182
+  label: 二
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-4
+    span:
+    - body
+    - 2450
+    - 2450
+  label: 三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-5
+    span:
+    - body
+    - 3979
+    - 3979
+  label: 四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-6
+    span:
+    - body
+    - 6435
+    - 6435
+  label: 五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-7
+    span:
+    - body
+    - 7528
+    - 7528
+  label: 六
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-8
+    span:
+    - body
+    - 8568
+    - 8568
+  label: 七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0618_Y_008-mulu-9
+    span:
+    - body
+    - 9439
+    - 9439
+  label: 八
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0618_Y_009-juan-start
+    span:
+    - body
+    - 0
+    - 1329
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0618_Y_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 九、永懷學友
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0618_Y_010-juan-start
+    span:
+    - body
+    - 0
+    - 542
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0618_Y_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十、我與盧勝彥
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0618_Y_011-juan-start
+    span:
+    - body
+    - 0
+    - 2520
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0618_Y_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十一、鼓山與虛雲和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0618_Y_011-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0618_Y_011-mulu-3
+    span:
+    - body
+    - 536
+    - 536
+  label: 一　虛老的年齡
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0618_Y_011-mulu-4
+    span:
+    - body
+    - 1515
+    - 1515
+  label: 二　虛老住持鼓山的法務與人事
+  type: mulu
+  level: 1
+hash: sha256:b7f70185753657711b98b33e3d37dd22a4fa0fab34bc83b2df3dba1c6012beee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
