@@ -31,17 +31,17 @@ assets:
   - {seq: 10, filename: KR6v0618_010-Y.yaml, hash: 'sha256:c6ff9c184140cfb159da0fc4224538243c93e6aa0e812615f053f039472f0298'}
   - {seq: 11, filename: KR6v0618_011-Y.yaml, hash: 'sha256:a740029df4e09ff5832975fb80f38887a0213494b8a9deb27466f55d6fad18d4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0618_001-Y.markers.yaml, hash: 'sha256:425939708e1d142b45e5bb0ce0fea2f07df3eadb2c1f3738836f4c602fc8fcaf'}
+  - {seq: 1, role: markers, filename: assets/KR6v0618_001-Y.markers.yaml, hash: 'sha256:5008a62991727c7fbe52e96902a3342da41049323f883af829108bef5541fa7c'}
   - {seq: 2, role: markers, filename: assets/KR6v0618_002-Y.markers.yaml, hash: 'sha256:9532ce1777a6c93669658a6acf29ebbc6c71d564835b12bfb1ac31e56c8fc290'}
-  - {seq: 3, role: markers, filename: assets/KR6v0618_003-Y.markers.yaml, hash: 'sha256:6ee667b3460421208327847003ca3546080e25ca22d0893e0f7a36787b3c3f00'}
+  - {seq: 3, role: markers, filename: assets/KR6v0618_003-Y.markers.yaml, hash: 'sha256:d895c9837dff0d1d8220217b831ec7e97abcded8bfceb96a5b226de0c527c5ec'}
   - {seq: 4, role: markers, filename: assets/KR6v0618_004-Y.markers.yaml, hash: 'sha256:e9d686ae861b5ce909419b3e002592cb09ab05116cc7330949447136c4cc238c'}
   - {seq: 5, role: markers, filename: assets/KR6v0618_005-Y.markers.yaml, hash: 'sha256:ab8e118749b5304e91c6dfe67611a724536cfb0dfd7689bca1bce517ae421571'}
-  - {seq: 6, role: markers, filename: assets/KR6v0618_006-Y.markers.yaml, hash: 'sha256:239a6f1bf9a362951c4579a59dffe348601231ea4e318d48f0fd2cecd4096089'}
+  - {seq: 6, role: markers, filename: assets/KR6v0618_006-Y.markers.yaml, hash: 'sha256:90fe71150ba20ca7568325dcc2d50cd3af50b69e8b01574dd169b40bf7550bfc'}
   - {seq: 7, role: markers, filename: assets/KR6v0618_007-Y.markers.yaml, hash: 'sha256:d0f376c3809d3c072a2e8d7aaca58867795779c242e9daa1ab2cf2e451a91908'}
-  - {seq: 8, role: markers, filename: assets/KR6v0618_008-Y.markers.yaml, hash: 'sha256:d4f7fa3988c0b601e608e60dfaa5e5026a653c63bfd52c95125547a2febb1be4'}
-  - {seq: 9, role: markers, filename: assets/KR6v0618_009-Y.markers.yaml, hash: 'sha256:7af6644252d29c9b212dd55ecb4287758955707bc08ed8aa6a487abbd0e8caae'}
+  - {seq: 8, role: markers, filename: assets/KR6v0618_008-Y.markers.yaml, hash: 'sha256:75cf1591677ff04d8bf2db484459a35ac9ba28e029c36c53b8e21d06d280b65c'}
+  - {seq: 9, role: markers, filename: assets/KR6v0618_009-Y.markers.yaml, hash: 'sha256:a66e0fce0ca62d916b63a6530ccf0c8d9da41a487758add3daa311eced11405c'}
   - {seq: 10, role: markers, filename: assets/KR6v0618_010-Y.markers.yaml, hash: 'sha256:d58aa2870da99efaef41d30a28609f926689baebbe35aeec7090e01a371d8717'}
-  - {seq: 11, role: markers, filename: assets/KR6v0618_011-Y.markers.yaml, hash: 'sha256:e3b8e43f0cba664a10585897136386535ea351ba9b1c859247fcea78fd93a1b6'}
+  - {seq: 11, role: markers, filename: assets/KR6v0618_011-Y.markers.yaml, hash: 'sha256:745696282a801c31a84bc3590fada8e8ef9eda64468f3b7cd1dd18ef0663511b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -843,4 +843,4 @@ table_of_contents:
   label: 二　虛老住持鼓山的法務與人事
   type: mulu
   level: 1
-hash: sha256:ad4e8e58b5db0f6c295ac7eb4f966598f58deef26d2004e9513bd80dac156238
+hash: sha256:1f3a801b857c74a30c95a272326dad53bce2fd20b5ac13196a23ff43f1b7879d
